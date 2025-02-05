@@ -4,13 +4,13 @@
 
   <ul>
     <li>🌱 Atualmente aprendendo JavaScript Avançado e Boas Práticas de CSS.</li>
-    <li>🎯 Meu objetivo: Tornar-me um desenvolvedor Front-End profissional.</li>
+    <li>🎯 Meu objetivo: Tornar-me um desenvolvedor profissional.</li>
   </ul>
 
 <h3 style="display:inline;">Projetos Pessoais</h3>
 
 <ul>
-  <li> <a href="https://github.com/GiovaniLeal/memory-game">🕹️ Jogo da Memória</a> - Jogo interativo para treinar lógica e CSS</li>
+  <li> <a href="https://github.com/GiovaniLeal/memory-game">🕹️ Jogo da Memória</a> - Jogo interativo.</li>
 </ul>
 <br>
 <div align="center">
