@@ -9,9 +9,14 @@
 
 <h3 style="display:inline;">Projetos Pessoais</h3>
 
-<ul>
+<ul><li> <a href="https://github.com/GiovaniLeal/js-developer-pokedex/tree/main?tab=readme-ov-file"> 🐲 Pokédex</a> - Integração com API de Pokemons!</li>
   <li> <a href="https://github.com/GiovaniLeal/memory-game">🕹️ Jogo da Memória</a> - Jogo interativo.</li>
   <li> <a href="https://github.com/GiovaniLeal/kanban/"> 📚  Kanban simples </a> - explorando o recurso drag and drop</li>
+
+
+
+
+  
 </ul>
 <br>
 <div align="center">
