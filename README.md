@@ -9,6 +9,7 @@
 - I enjoy tackling logical challenges with programming.
 
 ## Projects
+- <a href="https://github.com/GiovaniLeal/42-Projetcs/tree/main">  42SP - Projetos</a> - Projetos desenvolvidos durante a formacao de engenharia de software da escola 42.
 - <a href="https://github.com/GiovaniLeal/js-developer-pokedex/tree/main?tab=readme-ov-file"> 🐲 Pokédex</a> - Integração com API de Pokemons!
 - <a href="https://github.com/GiovaniLeal/memory-game">🕹️ Memory Game </a> - Jogo interativo.
 - <a href="https://github.com/GiovaniLeal/kanban/"> 📚  Kanban </a> - explorando o recurso drag and drop
