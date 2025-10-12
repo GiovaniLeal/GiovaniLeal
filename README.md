@@ -1,6 +1,7 @@
 <div>
   
-### <p align ="center"> Giovani Leal | Full-Stack Developer | Web </p>
+### <p align ="center">🧑‍💻 42 SP | 🐧 Linux | C • HTML/CSS/JS/Python | Software Developer
+ </p>
 
 <br/>
 
