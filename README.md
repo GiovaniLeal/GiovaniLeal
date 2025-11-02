@@ -1,27 +1,29 @@
-<div>
-  
-### <p align ="center">🧑‍💻 42 SP | 🐧 Linux | C • HTML/CSS/JS/Python | Software Developer
- </p>
 
-<br/>
+# 👋 Hey there!
 
-## About me
-- I'm Cadet at 42 São Paulo.
-- I enjoy tackling logical challenges with programming.
+🧩 Solving problems, one piece of logic at a time.  
+I’m a student at 42 São Paulo, passionate about solving logical challenges through programming.
+To me, coding is like putting together a big puzzle — the more organized the pieces are, the clearer the solution becomes.
 
-## Projects
-- <a href="https://github.com/GiovaniLeal/42-Projetcs/tree/main">  42SP - Projetos</a> - Projetos desenvolvidos durante a formacao de engenharia de software da escola 42.
-- <a href="https://github.com/GiovaniLeal/js-developer-pokedex/tree/main?tab=readme-ov-file"> 🐲 Pokédex</a> - Integração com API de Pokemons!
-- <a href="https://github.com/GiovaniLeal/memory-game">🕹️ Memory Game </a> - Jogo interativo.
-- <a href="https://github.com/GiovaniLeal/kanban/"> 📚  Kanban </a> - explorando o recurso drag and drop
-     
-## My Github Stats
-<div align="center">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniLeal&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniLeal&hide=php&theme=tokyonight" />
-</a>
-</div>
+### Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## 42 Cursus
+
+  ### Phase 1:
+
+- [libft](https://github.com/) - My C library
+- [get next line](https://github.com/) - Read line by line
+- [printf](https://github.com/) - Recreation of printf
+- [born2beroot](https://github.com/) - Admin of my own system
+
+
+
+
+## Contacts
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovani-leal-21765a211/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovaniandradeleal@gmail.com)
 
 
 
