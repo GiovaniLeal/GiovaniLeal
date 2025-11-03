@@ -16,10 +16,8 @@ To me, coding is like putting together a big puzzle — the more organized the p
   ### Phase 1:
 
 - [libft](https://github.com/GiovaniLeal/42sp-Libft) - My C library
-- [get next line](https://github.com/) - Read line by line
 - [printf](https://github.com/GiovaniLeal/42sp-printf) - Recreation of printf
-- [born2beroot](https://github.com/) - Admin of my own system
-
+- [get next line](https://github.com/GiovaniLeal/42sp-get_next_line) - Read line by line
 
 
 
